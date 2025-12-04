@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());
@@ -31,6 +31,7 @@ app.post("/add-review", (req, res) => {
   const album = albums.find((a) => a.id === albumId);
   if (!album) return res.status(404).json({ message: "Album no encontrado" });
 
+  if (!album.reviews) album.reviews = [];
   album.reviews.push(review);
   console.log("Reseña agregada:", review);
 
