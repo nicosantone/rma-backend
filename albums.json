@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "releaseYear": 1969,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "releaseYear": 1982,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "releaseYear": 1973,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "releaseYear": 1980,
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ACDC_Back_in_Black.png/330px-ACDC_Back_in_Black.png",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "releaseYear": 1977,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "releaseYear": 1976,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "releaseYear": 1991,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "releaseYear": 1975,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Born_to_Run_%28Front_Cover%29.jpg/250px-Born_to_Run_%28Front_Cover%29.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "releaseYear": 1971,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg/250px-Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 10,
+ "title": "Around the Fur",
+    "artist": "Deftones",
+    "releaseYear": 1997,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Deftones_-_Around_the_Fur.jpg/250px-Deftones_-_Around_the_Fur.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "releaseYear": 1967,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg/250px-Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "releaseYear": 2007,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Inrainbowscover.png/250px-Inrainbowscover.png",
+    "ratings": [],
+    "averageRating": null,
+    "reviews": []
+  }
+]
